@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D9B1BA9B-1D03-487B-95A0-D167C90D0FE6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DWS/Controllers/AdminController.cs">
+    <Files>
+      <File FileName="DWS/Views/Home/About.cshtml" Line="8" Column="1" />
+      <File FileName="DWS/Startup.cs" Line="1" Column="1" />
+      <File FileName="DWS/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="DWS/Controllers/HomeController.cs" Line="14" Column="1" />
+      <File FileName="DWS/Controllers/AdminController.cs" Line="14" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DWS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sudev/Projects/DWS/DWS/Controllers/HomeController.cs" relfile="DWS/Controllers/HomeController.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
