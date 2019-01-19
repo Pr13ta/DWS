@@ -9,3 +9,14 @@
 /Users/sudev/Projects/DWS/DWS/obj/Debug/netcoreapp2.0/DWS.AssemblyInfo.cs
 /Users/sudev/Projects/DWS/DWS/obj/Debug/netcoreapp2.0/DWS.dll
 /Users/sudev/Projects/DWS/DWS/obj/Debug/netcoreapp2.0/DWS.pdb
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\bin\Debug\netcoreapp2.0\DWS.deps.json
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\bin\Debug\netcoreapp2.0\DWS.runtimeconfig.json
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\bin\Debug\netcoreapp2.0\DWS.runtimeconfig.dev.json
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\bin\Debug\netcoreapp2.0\DWS.dll
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\bin\Debug\netcoreapp2.0\DWS.pdb
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\obj\Debug\netcoreapp2.0\DWS.csproj.CoreCompileInputs.cache
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\obj\Debug\netcoreapp2.0\DWS.AssemblyInfoInputs.cache
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\obj\Debug\netcoreapp2.0\DWS.AssemblyInfo.cs
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\obj\Debug\netcoreapp2.0\DWS.dll
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\obj\Debug\netcoreapp2.0\DWS.pdb
+C:\Users\susai\Desktop\VisualStudio Source\DWS\DWS\obj\Debug\netcoreapp2.0\DWS.csprojAssemblyReference.cache
